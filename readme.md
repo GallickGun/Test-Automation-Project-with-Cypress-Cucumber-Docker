@@ -33,12 +33,7 @@ npx cypress open
 
 
 
-You can also specify which tags you want to execute by passing as an argument following the syntax `not @tag1 and (@tag2 or @tag3)` like the command line below:
+You can also specify which tags you want to execute.
 ```
-npm run cy:tags --e TAGS='@login'
-```
-
-You can also change the `baseURL` by setting the `CYPRESS_BASE_URL` environment variable like the command line below:
-```
-CYPRESS_BASE_URL=http://the-internet.herokuapp.com npm run cy:run
+Cypress_tags=login npx cypress run
 ```
