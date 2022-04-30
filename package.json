@@ -16,7 +16,9 @@
   },
   "homepage": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker#readme",
   "dependencies": {
-    "cypress": "^9.6.0",
+    "cypress": "^9.6.0"
+  },
+  "devDependencies": {
     "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
