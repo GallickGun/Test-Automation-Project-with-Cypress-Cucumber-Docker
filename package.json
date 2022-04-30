@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker/issues"
   },
-  "homepage": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker#readme"
+  "homepage": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
 }
