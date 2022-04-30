@@ -1,0 +1,18 @@
+{
+  "name": "Test-Automation-Project-with-Cypress-Cucumber-Docker",
+  "version": "1.0.0",
+  "description": "Cypress + Cucumber + Docker",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker.git"
+  },
+  "keywords": [],
+  "author": "GallickGun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker/issues"
+  },
+  "homepage": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker#readme"
+}
