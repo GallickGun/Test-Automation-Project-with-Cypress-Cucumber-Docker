@@ -1,4 +1,4 @@
 node_modules/
 cypress/screenshots/
 cypress/videos/
-cucumber_reportnode
+cucumber_report/
