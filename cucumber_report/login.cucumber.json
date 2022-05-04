@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login",
+    "line": 2,
+    "id": "login",
+    "tags": [
+      {
+        "name": "@login",
+        "line": 1
+      }
+    ],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login;login-successfully",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Login successfully",
+        "tags": [
+          {
+            "name": "@login",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I open Login Page",
+            "result": {
+              "status": "passed",
+              "duration": 5125000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I fill the username input with \"tomsmith\"",
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "I fill the password input with \"SuperSecretPassword!\"",
+            "result": {
+              "status": "passed",
+              "duration": 398000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I click on Login button",
+            "result": {
+              "status": "passed",
+              "duration": 874000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I see \"You logged into a secure area!\" message",
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

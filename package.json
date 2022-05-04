@@ -6,14 +6,11 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker.git"
+    "url": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker"
   },
   "keywords": [],
   "author": "GallickGun",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker/issues"
-  },
   "homepage": "https://github.com/GallickGun/Test-Automation-Project-with-Cypress-Cucumber-Docker#readme",
   "dependencies": {
     "cypress": "^9.6.0"
